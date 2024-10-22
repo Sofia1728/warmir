@@ -1,4 +1,3 @@
-# Я учусь пользоваться гитом
 # NeuroStartUp
 
 (./logo.png)
